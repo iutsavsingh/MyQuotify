@@ -3,7 +3,7 @@ Simple Quotes App - Static Data
 
 ## *Utsav Kumar*
 
-**MyQuotify** noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. 
+**MyQuotify** is a simple quote showing app where user can get tons of quotes. I have made this app using kotlin by implementing some famous techniques like 'ViewModel', 'ViewModelFactoey', 'JSON Parsing' etc. 
 
 Time spent: **10** hours spent in total
 
@@ -11,6 +11,7 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
+* [x] User can get tons of quotes only by clicking on 'NEXT/PREVIOUS' button.
 * [x] This app shows the use of ViewModel and ViewModelFactory Concept
 * [x] Learn about ViewModels by creating this simple app.
 * [x] App uses static data provided as JSON.
