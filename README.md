@@ -22,3 +22,18 @@ Here's a walkthrough of implemented user stories:
 
 https://user-images.githubusercontent.com/106907207/193480894-a8da8274-13a4-407a-ae5a-4c765a0e8c1d.mp4
 
+## License
+
+Copyright [2022] [Utsav Kumar]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
