@@ -3,6 +3,10 @@ Simple Quotes App - Static Data
 
 ## *Utsav Kumar*
 
+<p align="center">
+  <img src="https://github.com/iutsavsingh/MyQuotify/blob/master/MyQuotify%20Banner.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
 **MyQuotify** is a simple quote showing app where user can get tons of quotes. I have made this app using kotlin by implementing some famous techniques like 'ViewModel', 'ViewModelFactoey', 'JSON Parsing' etc. 
 
 Time spent: **10** hours spent in total
